@@ -1,11 +1,49 @@
 
-  # Untitled
+# conta-pra-mim
 
-  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/cI6GXHRTjUF1icz0HYZfv2/Untitled.
+Uma interface web React + Vite para o projeto **conta-pra-mim**.
 
-  ## Running the code
+## 🚀 Tecnologias usadas
 
-  Run `npm i` to install the dependencies.
+- **Vite** (bundler rápido)
+- **React** (UI)
+- **TypeScript** (tipagem)
+- **Tailwind CSS**
+- **Radix UI** (componentes acessíveis)
+- **MUI (Material UI)**
 
-  Run `npm run dev` to start the development server.
+## ▶️ Iniciar localmente
+
+1. Instale dependências:
+
+```bash
+npm install
+```
+
+2. Inicie o servidor de desenvolvimento:
+
+```bash
+npm run dev
+```
+
+3. Abra o navegador em:
+
+```
+http://localhost:5173
+```
+
+## 🧰 Scripts úteis
+
+- `npm run dev` — servidor de desenvolvimento
+- `npm run build` — build de produção
+
+## 📁 Estrutura principal
+
+- `src/main.tsx` — ponto de entrada
+- `src/app/` — componentes e páginas
+- `src/styles/` — estilos e tema
+
+---
+
+> Se precisar de ajuda para configurar um ambiente (Node, npm/pnpm, etc.) ou quiser adicionar deploy automático, é só avisar.
   
